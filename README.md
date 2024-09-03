@@ -21,3 +21,4 @@ All of my leetcode (and similar) solutions using the C++ programming language.
 | 8 kyu | Convert a Number to a String! | Strings, Fundamentals | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/8kyu-convert-a-number-to-a-string.cpp) |
 | 8 kyu | Reversed Strings | Strings, Fundamentals | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/8kyu-reversed-strings.cpp) |
 | 8 kyu | Opposite Number | Fundamentals | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/8kyu-opposite-number.cpp) |
+| 8 kyu | Return Negative | Fundamentals | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/8kyu-return-negative.cpp) |
