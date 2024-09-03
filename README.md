@@ -18,3 +18,4 @@ All of my leetcode (and similar) solutions using the C++ programming language.
 | :--: | :-- | :-- | :--: |
 | 8 kyu | Multiply | Debugging, Fundamentals | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/8kyu-multiply.cpp) |
 | 8 kyu | Even or Odd | Mathematics, Fundamentals | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/8kyu-even-or-odd.cpp) |
+| 8 kyu | Convert a Number to a String! | Strings, Fundamentals | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/8kyu-convert-a-number-to-a-string.cpp) |
