@@ -26,3 +26,4 @@ All of my leetcode (and similar) solutions using the C++ programming language.
 | 8 kyu | Sum of positive | Arrays, Fundamentals | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/8kyu-sum-of-positive.cpp) |
 | 8 kyu | String Repeat | Fundamentals, Strings | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/8kyu-string-repeat.cpp) |
 | 8 kyu | Remove First and Last Character | Strings, Fundamentals | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/8kyu-remove-first-and-last-character.cpp) |
+| 8 kyu | Square(n) Sum | Arrays, Lists, Fundamentals | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/8kyu-square-n-sum.cpp) |
