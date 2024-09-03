@@ -35,7 +35,7 @@ void test() {
     assert(even_or_odd(-2) == "Even");
     assert(even_or_odd(-100) == "Even");
 
-    std::cout << "All tests passed!" << std::endl;
+    std::cout << "All tests passed!" << '\n';
 }
 
 /* MAIN
