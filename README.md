@@ -24,3 +24,4 @@ All of my leetcode (and similar) solutions using the C++ programming language.
 | 8 kyu | Return Negative | Fundamentals | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/8kyu-return-negative.cpp) |
 | 8 kyu | Convert boolean values to strings 'Yes' or 'No'. | Fundamentals | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/8kyu-convert-boolean-values.cpp) |
 | 8 kyu | Sum of positive | Arrays, Fundamentals | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/8kyu-sum-of-positive.cpp) |
+| 8 kyu | String Repeat | Fundamentals, Strings | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/8kyu-string-repeat.cpp) |
