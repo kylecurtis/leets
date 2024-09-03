@@ -1,9 +1,8 @@
-# Leets
+# Solutions
 
 All of my leetcode (and similar) solutions using the C++ programming language.
 
 <br>
-
 
 ## Leetcode Solutions
 
