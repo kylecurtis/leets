@@ -22,6 +22,17 @@ All of my leetcode (and similar) solutions using the C++ programming language.
 ## Codewars Solutions
 
 <details>
+<summary><strong>7 kyu</strong></summary>
+
+| Difficulty | Problem Name | Topics | Solution |
+| :--: | :-- | :-- | :--: |
+| 7 kyu | Vowel Count | Strings, Fundamentals | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/7kyu-vowel-count.cpp) |
+
+</details>
+
+<br>
+
+<details>
 <summary><strong>8 kyu</strong></summary>
 
 <br>
