@@ -6,13 +6,25 @@ All of my leetcode (and similar) solutions using the C++ programming language.
 
 ## Leetcode Solutions
 
-| Number | Problem Name | Topics | Solution |
+<details>
+<summary><strong>Easy</strong></summary>
+
+<br>
+  
+| Difficulty | Problem Name | Topics | Solution |
 | :--: | :-- | :-- | :--: |
-| 1 | Two Sum | Array, Hash Table | [Here](https://github.com/kylecurtis/solutions/blob/main/leetcode/1-two-sum.cpp) |
+| Easy | 1 - Two Sum | Array, Hash Table | [Here](https://github.com/kylecurtis/solutions/blob/main/leetcode/1-two-sum.cpp) |
+
+</details>
 
 <br>
 
 ## Codewars Solutions
+
+<details>
+<summary><strong>8 kyu</strong></summary>
+
+<br>
 
 | Difficulty | Problem Name | Topics | Solution |
 | :--: | :-- | :-- | :--: |
@@ -32,3 +44,5 @@ All of my leetcode (and similar) solutions using the C++ programming language.
 | 8 kyu | Grasshopper - Summation | Fundamentals, Mathematics | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/8kyu-grasshopper-summation.cpp) |
 | 8 kyu | Counting sheep... | Arrays, Fundamentals | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/8kyu-counting-sheep.cpp) |
 | 8 kyu | Remove String Spaces | Fundamentals, Strings | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/8kyu-remove-string-spaces.cpp) |
+
+</details>
