@@ -30,3 +30,4 @@ All of my leetcode (and similar) solutions using the C++ programming language.
 | 8 kyu | Find the smallest integer in the array | Fundamentals | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/8kyu-find-the-smallest-integer.cpp) |
 | 8 kyu | Convert a String to a Number! | Parsing, Strings, Fundamentals | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/8kyu-convert-a-string-to-a-number.cpp) |
 | 8 kyu | Grasshopper - Summation | Fundamentals, Mathematics | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/8kyu-grasshopper-summation.cpp) |
+| 8 kyu | Counting sheep... | Arrays, Fundamentals | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/8kyu-counting-sheep.cpp) |
