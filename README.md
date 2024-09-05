@@ -29,7 +29,7 @@ All of my leetcode (and similar) solutions using the C++ programming language.
 | Difficulty | Problem Name | Topics | Solution |
 | :--: | :-- | :-- | :--: |
 | 7 kyu | Vowel Count | Strings, Fundamentals | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/7kyu-vowel-count.cpp) |
-| 7 kyu | Disemvowel Trolls | Strings, Regular Expressions, Fundamentals | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/7kyu-vowel-count.cpp) |
+| 7 kyu | Disemvowel Trolls | Strings, Regular Expressions, Fundamentals | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/7kyu-disemvowel-trolls.cpp) |
 
 </details>
 
