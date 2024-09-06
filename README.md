@@ -30,6 +30,7 @@ All of my leetcode (and similar) solutions using the C++ programming language.
 | :--: | :-- | :-- | :--: |
 | 7 kyu | Vowel Count | Strings, Fundamentals | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/7kyu-vowel-count.cpp) |
 | 7 kyu | Disemvowel Trolls | Strings, Regular Expressions, Fundamentals | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/7kyu-disemvowel-trolls.cpp) |
+| 7 kyu | Square Every Digit | Mathematics, Fundamentals | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/7kyu-square-every-digit.cpp) |
 
 </details>
 
