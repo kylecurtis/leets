@@ -32,6 +32,7 @@ All of my leetcode (and similar) solutions using the C++ programming language.
 | 7 kyu | Disemvowel Trolls | Strings, Regular Expressions, Fundamentals | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/7kyu-disemvowel-trolls.cpp) |
 | 7 kyu | Square Every Digit | Mathematics, Fundamentals | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/7kyu-square-every-digit.cpp) |
 | 7 kyu | Highest and Lowest | Fundamentals, Strings | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/7kyu-highest-and-lowest.cpp) |
+| 7 kyu | Descending Order | Fundamentals | [Here](https://github.com/kylecurtis/solutions/blob/main/codewars/7ku-descending-order.cpp) |
 
 </details>
 
