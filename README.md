@@ -1,4 +1,6 @@
-# Solutions
+![solutions-banner](https://github.com/user-attachments/assets/fe4f8a67-d273-4c0b-b35e-18c72819bd80)
+
+<br>
 
 All of my leetcode (and similar) solutions using the C++ programming language.
 
