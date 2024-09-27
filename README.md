@@ -18,6 +18,7 @@ All of my leetcode (and similar) solutions using the C++ programming language.
 | Easy | 1 - Two Sum | Array, Hash Table | [Here](https://github.com/kylecurtis/solutions/blob/main/leetcode/1-two-sum.cpp) |
 | Easy | 125 - Valid Palindrome | Two Pointers, String | [Here](https://github.com/kylecurtis/solutions/blob/main/leetcode/125-valid-palindrome.cpp) |
 | Easy | 217 - Contains Duplicate | Array, Hash Table, Sorting | [Here](https://github.com/kylecurtis/solutions/blob/main/leetcode/217-contains-duplicate.cpp) |
+| Easy | 242 - Valid Anagram | Hash Table, String, Sorting | [Here](https://github.com/kylecurtis/solutions/blob/main/leetcode/242-valid-anagram.cpp) |
 | Easy | 344 - Reverse String | Two Pointers, String | [Here](https://github.com/kylecurtis/solutions/blob/main/leetcode/344-reverse-string.cpp) |
 
 </details>
