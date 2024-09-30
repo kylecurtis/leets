@@ -1,2 +1,27 @@
+# Ignore editor directories
+.idea/
 .vscode/
+
+# Ignore build directories
+cmake-build-debug/
+cmake-build-release/
+build/
+out/
 bin/
+
+# Ignore CMake intermediate files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Ignore generated executables and object files
+*.o
+*.a
+*.so
+*.exe
+*.out
+*.log
+*.obj
+*.dll
+*.pdb
