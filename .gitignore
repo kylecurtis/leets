@@ -1,6 +1,7 @@
 # Ignore editor directories
 .idea/
 .vscode/
+.vs/
 
 # Ignore build directories
 cmake-build-debug/
