@@ -21,6 +21,7 @@ All of my leetcode (and similar) solutions using the C++ programming language.
 | Easy | 217 - Contains Duplicate | Array, Hash Table, Sorting | [Here](https://github.com/kylecurtis/solutions/blob/main/leetcode/217-contains-duplicate.cpp) |
 | Easy | 242 - Valid Anagram | Hash Table, String, Sorting | [Here](https://github.com/kylecurtis/solutions/blob/main/leetcode/242-valid-anagram.cpp) |
 | Easy | 344 - Reverse String | Two Pointers, String | [Here](https://github.com/kylecurtis/solutions/blob/main/leetcode/344-reverse-string.cpp) |
+| Easy | 704 - Binary Search | Array, Binary Search | [Here](https://github.com/kylecurtis/solutions/blob/main/leetcode/704-binary-search.cpp) |
 
 </details>
 
